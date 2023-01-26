@@ -7,6 +7,12 @@ hide_description: true
 sitemap: false
 ---
 
+![800x400](/assets/img/blog/dark-mode.jpg/"Large example image")
+
+![400x200](/assets/img/blog/dark-mode.jpg/"Medium example image")
+
+![200x200](/assets/img/blog/dark-mode.jpg/200x200 "Small example image")
+![Full-width image](/assets/img/blog/output_18_0.png/800x100){:.lead width="800" height="100" loading="lazy"}
 This chapter covers advanced topics, such as offline support and custom JS builds. Codings skills are recommended.
 
 0. this unordered seed list will be replaced by toc as unordered list
