@@ -421,3 +421,10 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
